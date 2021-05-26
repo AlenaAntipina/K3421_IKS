@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
