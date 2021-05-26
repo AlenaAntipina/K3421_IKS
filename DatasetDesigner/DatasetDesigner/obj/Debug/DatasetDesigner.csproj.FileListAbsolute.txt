@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
