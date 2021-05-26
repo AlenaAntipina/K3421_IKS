@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
