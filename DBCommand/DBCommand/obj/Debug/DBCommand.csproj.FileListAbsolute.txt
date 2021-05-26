@@ -1,0 +1,29 @@
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\lenovo\source\repos\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
+C:\Users\Админ\Downloads\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Админ\Downloads\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Админ\Downloads\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Админ\Downloads\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
