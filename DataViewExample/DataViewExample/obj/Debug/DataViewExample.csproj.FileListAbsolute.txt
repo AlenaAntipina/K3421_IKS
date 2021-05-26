@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

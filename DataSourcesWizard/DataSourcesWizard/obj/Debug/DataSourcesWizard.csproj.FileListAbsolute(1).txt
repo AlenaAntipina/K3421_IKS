@@ -1,0 +1,9 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
