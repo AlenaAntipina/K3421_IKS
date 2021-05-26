@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+C:\Users\lenovo\Documents\Лабы\Осипов\веб\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csprojAssemblyReference.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+D:\учеба\Четвертый курс\Осипов\Lab_4\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
